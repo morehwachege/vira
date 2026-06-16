@@ -3,6 +3,9 @@ name = "vira"
 version = "0.1.0"
 authors = ["Antony Gakuru <antony123muriithi@gmail.com>"]
 description = "Grep pkg in rust"
+homepage = "https://github.com/morehwachege/vira"
+documentation = "https://github.com/morehwachege/vira"
+repository = "https://github.com/morehwachege/vira"
 license = "MIT"
 edition = "2024"
 
