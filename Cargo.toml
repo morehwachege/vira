@@ -1,6 +1,9 @@
 [package]
 name = "vira"
 version = "0.1.0"
+authors = ["Antony Gakuru <antony123muriithi@gmail.com>"]
+description = "Grep pkg in rust"
+license = "MIT"
 edition = "2024"
 
 [dependencies]
