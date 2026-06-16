@@ -75,14 +75,14 @@ With "rust" highlighted in ```red``` for better visibility.
 
 5. The search is case-insensitive, but the original text formatting is preserved
 
-Limitations
+## Limitations
 Currently supports single pattern matching only
 
 No regex support (planned for future releases)
 
 No line numbering or context display (coming soon)
 
-Future Plans
+## Future Plans
 - Regular expression support
 
 - Line numbering
@@ -95,10 +95,10 @@ Future Plans
 
 - Configuration file support
 
-Contributing
+## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-License
+## License
 MIT License - feel free to use this project however you like.
 
 Happy searching!
